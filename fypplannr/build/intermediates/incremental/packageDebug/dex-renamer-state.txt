@@ -1,0 +1,7 @@
+#Sat Aug 12 17:15:05 BST 2017
+base.0=C\:\\154\\040517 Latest\\2404\\fypplannr2404\\fypplannr\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fda44b7f347f24a5f81e9e53aaf7df960efbc475
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\154\\040517 Latest\\2404\\fypplannr2404\\fypplannr\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f2cf06f42783d369d70e0f3ce05a443289740a7c\\classes.dex
+base.1=C\:\\154\\040517 Latest\\2404\\fypplannr2404\\fypplannr\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_f2cf06f42783d369d70e0f3ce05a443289740a7c
+file.0=C\:\\154\\040517 Latest\\2404\\fypplannr2404\\fypplannr\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fda44b7f347f24a5f81e9e53aaf7df960efbc475\\classes.dex

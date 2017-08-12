@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_events_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.parse.fypPlannr.eventsListActivity"
+    android:background="#24B14D">
+
+
+     
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/Swiper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/citySpinner">
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/eventList"
+            android:layout_below="@+id/createEvent"
+            android:textColor="#ffffff"/>
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+    <Button
+        android:text="Friends List"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/logOut"
+        android:onClick="friendsList"
+        android:background="#029789"
+        android:textColor="#ffffff"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/mapButton"
+        android:layout_toEndOf="@+id/button3"
+        android:layout_above="@+id/citySpinner"
+        android:textSize="12sp" />
+
+    <Button
+        android:text="Create Event"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/createEvent"
+        android:onClick="createEvent"
+        android:background="#04988a"
+        android:textColor="#ffffff"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="Logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button3"
+        android:background="#029789"
+        android:textColor="#ffffff"
+        android:onClick="logOut"
+        android:layout_above="@+id/citySpinner" />
+
+    <Button
+        android:text="Map View"
+        android:layout_height="wrap_content"
+        android:id="@+id/mapButton"
+        android:layout_width="wrap_content"
+        android:background="#029789"
+        android:textColor="#ffffff"
+        android:onClick="mapView"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/createEvent"
+        android:layout_toStartOf="@+id/createEvent" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/citySpinner"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/createEvent" />
+</RelativeLayout>

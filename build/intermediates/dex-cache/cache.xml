@@ -1,0 +1,2156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_30fb456daf578121b160be9ec4d4f517f7ad77d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_37238f9731a15d91206eac1c357f02ca3fdcba94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_ade0dbef1650413e6d74ee5cb19c15289ecc0a52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_7d8a566bda31e08e1f37dd63e4fb77849fc6b4b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_8fc46bd261e9deec6c3fc436fbe31097b24ed414\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_61247a99e8900d0075774dffa5cfe19cb534ebd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_185dd304d228352cd9926fbef18c3ae2a11d16e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_45eb2e08ce94a369a4e0d701fd4344509fa6b257\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\CodeworksAndroid\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_54a78a044654cf5c8ba8246eda4af9b5d402812f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_eca51df4c216a4ff95b206323023d1f64f90448d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_44c1fdcf5f1e47feb3fab8100beb3d46a8244fcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6086cb865c21436b1a39a025dc2256acf2a11bfd">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6c35a4ebeb608ec7a7b334d6e8de877d1d3b5a66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_107cd31a3a69eab1f8d51797f29412ea20ce1b42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4ca430774a6254cbbb46a7abf30c0957ecab07d2">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fda44b7f347f24a5f81e9e53aaf7df960efbc475\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_71d670fc7e49dd1f51c2f64dd4f3ad454655ae3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_381e2fdc4682082d324276ef2e9a45fc7ff73bc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_482ba0ce89763764df607959d494b5e71113beae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_93c454b724df3fcd515665fa549da0d30a472e70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_e78890d81a142d172f1718928b889e5b7d92328e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_902e3fcf68f54d1b8cf264d840e858b0e2b6fa81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_3cc3c13ae75e9ab6e3a197a0353ada539d0883e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_4f6c76b00a12f8a9feb293e1e88356d267df16e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_90cac47d04fe70050eef71be8c79c943e60bf844\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_4d1b443abfc122b18d90dfb9375a6f826a5adf74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_d163eef373368da8f244981af9c2f7edffda3bf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_d81478520c441e176a8f09c75a9f18eb08da775c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_78ead7503248111869d61335a9f79574c61f87d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_09035ba13be2fcb9caad600990ef158ef467f19c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_11c9f575d6d9ce6073bc14b2b264159062366ba9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_614f67698c72fb59315c17b794f8e726af6e584f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_61ae00530bedc6bfc70b57c8e44b2291d8dc14bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_b35ae1a692c16f0c822c54067ab2221c60b9b5fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_447f738eb9d74ebde79b426ccacc6df4242897da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_d1e4f7f121aa85f2c2572fc68cfd8a5cc3a3a2a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_b6e1f99a344ebf15f9488c4752fe5bc860166c61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_ec0cd2abf95753633763cb52c5eb4bec97f3b39f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_69bd6cbd01149e6156744f0d98f8d3da32b51f95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_f61ac51bf3ad1d94b2ae5abf261b22020bc0c29f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_f23658577dbd6e302815e052015114891d28ab1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_56d740cc99082edc7a8ef34b5f32dfa965053e47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_58718f37f50e442dd1b057ae3968050bd959971b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_3eeaa67d4f891566736ca07b2f0de703e3aa1200\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_fd8bbfc008496c3267cf5c11a4605cd0d10769ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_cc5e573d3af2763ba4d651297bf64424fba47654\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_0e74a461e7b5e7384091d73159daccf4a0b46c6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_d8db01c6a05d537f3caf73a22effcd1ce40c88e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_74d1a9eefd5fcad8456a565623852d64e81e573c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_933d6f645cb6e5a43ff702bb20dcd31edc8fb13d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_4037b8dd7f598ec26762deafe2879d32c80d5594\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_3c9daccd3955b2a96f138f5d68ba27ab6e54dd54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_ce6ec4ab2dff44bd4110a399950b6475bf980595\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_de80c26fd237d45e08813debfdfc493997817939\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_389024c14548d57cf0bf4abbbe4ed3a063a93ac5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_78791f127a894a6e7e2d5d3e5d4f55bd38e6998a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_63c095cefbb7d827b32ab77e8848e961c126d844\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_ec6617e9675059d7463bbb94c49dde3bea2a4a18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_91114368267b3770ac79cca4bce2a4466538dda7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_7d2d0067acf91faa8e4cf1677e0997763ed7968b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_cf3c3f664f5e97660e45b718ac9b6bb83c87c914\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_2118c3a18c6b10d1f0818c8d33eb0ce6ce6a71ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_74b9c1956d92eb0378b42283acf6b4bb23163ee3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_76f8297027982453034de78d6d2919e22f45f162\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_5b130f9536e1cbdc33023340513c261587928f80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_238469560f944465644ebd3459363066aeba3713\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_9afd5a579ee47a6cae996b420a23ab72637031f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_86c083f74ba88c74bdbc3c2d1a0572b343cb19bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0a87dc1a98bb314bd2bc71b804fc68f19cca77de">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f2cf06f42783d369d70e0f3ce05a443289740a7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_2096af79633845600034a57583deb7a233a91088\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_58f128de32b996a4c0615b507b9ee4acd42db843\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_f5ea2408597a42de7e1471469f3af510aac92e5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_0950a989bd7909b6e06946aedc6d7ad146117063\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_c68dd5736fb77c5b0e21faf22fb0ee49689a8538\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_c809065a752c99b9b5d4fbb8fc2d7241834cffef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_65c7e30ab49d8582506ff3d36f3d2a096f3a2125\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_6e53d5e0ee65ac3192d60559c91d34b774ba2dfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_0c0f89847dec638d1b0e5c5788545d26d727ca57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_346b95f8c515c380b2baeba796c079f86fb4033f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_aeae24eb4478b0066855b39073f5417e1512c028\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_b92f7d8e189e1e790212c845409c431bbbdbdb7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_1a99a81303c92545cfd77de484529d00812093ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_7f739950066ea9be052572e5b0ba3b413d7f6894\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_b47304936876c384fed31874d9c902be82bf587d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_693f0ae78ac50d738ddb98266421e9d046528813\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_6f2322ae403725e330b08bafbafbeab923120116\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_64fd0a571d1057c8833aaed7d4416599075dcbe3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_dfcb0010b76c115bf7484d319bb0ee7099ce3948\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_e3198206e648d829e63aba697780290d737021c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_e620f6a31a5d45c7586daa54434147f998cc1ea2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_1934690db582fdbdbec4e6f4e251d392f78f7b35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_228413a8e443ff7887cf155865ead5fb734ad6c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_24b8b266c1543d0fa4f671408fd4ec9422c0bd9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_8955dd22bfe5b600857df94a9191aba957ef3119\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_df9974060cc157b8a5244c1064761d7fc3f59d9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_3859dddb203ab19345892a69f5299f957b9d5a9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_e17df8530734129d20b1c4da85e8c504ff3cf26b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_7742610283703c1230830daecffc93905d2f90b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_b0d798abb6e3ba6683c85bfe708763e2abe0c590\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_77c9d4b679226edb80b85378e515325ebb817f14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_6ce5a4a5f0820853642e3593fe66ddee835575a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_ef210fdd6a410b4a2bbd53d20114e830f8eadbd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_a5774ca829a5cd4e8f89d8620858ea898209ca05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_9a5cfca11f2bce73f2d31151581dfc47eed4edb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_8aabd9b2b5d826c0543f0e17da24eafa66c7aeb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_71e3a23e95fd2a0c0fa3540e78b3d61ea7aea66e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_f6c3a01bc9fa8bc6008ea2025025f65587db6e30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_1d6e6e923440e87d04e8662769c5445ddf1b9ad8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_bca6a154a078d43981260fae71cc1636cea0bc50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_376c729ef6e873b6b03f10990674d8668d27dd6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_61247a99e8900d0075774dffa5cfe19cb534ebd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_014545571caaca4eb86c2b3f4c91a1ea4c41c95d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_324194034c62faa8b74698c11e78b530a62bcdec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_6ab076457e57534cd89f0fff2497bc224696d2d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_3b323537449f57a93c8329821d3ca5a841794747\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_e599cbfcbe0219451df90e08fed76beaee94e197\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_cc732675891173d5ad40e0a817105a91a85d8bc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_21ee7e648bc762d6a0fa62f3514e808a926a744d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_768876c872fbd1953524a192c0e8a042f6237a9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_db00d42216ff3c40a7e6a106a8ceb60df24e9301\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_2cc1a95de15f89666f8ecc64fc9648fc841a7c22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_2914619663401a67004a4ab5ffdeb7a4bd8e7237\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_7857db79f6658306d7156a39b10d06afccd8b1fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_40b193ef4d96975c7470ce84c09e8ad9e175979c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_799d75675e1f299947a40971b5a44ae3d7da4ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_35e771c9d70cedc6658165b57fe3b58108a6bc76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_f2396484b66e151a457b63fa9f091e0c993cd095\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_5f58df9f671ccc4cdfe7cb2b40157f8acefdaea2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_970925429f789190f3626d99d072c30cf6a23cb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_6675293e6c85e2f2b198efd0663eea17baafb901\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_b152b1b5b27c1cdcac4f2869144ac0b1d383bd28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_41beb4316fe02d44ba52bcdb66ee36d6cdf1b0dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_1fe355c5af950ee80dda709beaf6cc4edd9c1bdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_cd5a40fd991f0fe4e436314464d84529946387f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_852ea06fb071f865043ef6bce9845a67a299cad9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_6e574e4d2bab5381cbddceac10111e809876ce7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_22fec0289baeec476c8880cbf9c3ab866484368a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_71b1e3ac9538ab9ee6cbfdb75ba93755aa14b797\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_94bf48823b752fa288c03906ff1a09f72fe3700f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_420743c7ca23928c818db48adf7de850dc72791d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_e92607f0e01c1287d86c142167babbb0f2a94ff5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_8731f2b331b0eb6657c24dd9b6b23417a3ec3b4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_3977a688d5e16f8ca5cca762a261001017fc32a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_5a501d546c73070a5f7202aeaf8a2f6fc3b2ecd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_06342e319013b600df87f866cd9e3927c68d64b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_722b91f7b9020729c1a46539434d172fc31971fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_08d72f091f3bf67f103338e21ca859730991788a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_4b31dc5c7d0153541885eb2ce500f7a2c09ed346\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_6ab91e4e3548de126b1cfe7fc17087d0320c2142\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_2dd20cfc296698752da15db5064eb6558ddcd282\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_eae37fa567a15a7c24cd4efa5b55e582531e1a77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_59c3049780359946b170a584503ab47974cb3b0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_b62ad67726841cf14ae9feba81c7657fd561b8ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_fb90f3af4400456694188e807e9651517e0c7182\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_f53fa309117833e4f08c38ce09ffcba21cbb9958\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_4250d8b6a7ced47977e4905cbac0d50c169e6dde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_f8f69a298c9120e2793b78c509a310357219757e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_1b623a53da41e875588f51d81b9233fc24f373c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_c9a1f1d247dc32326b0f9818150985773a0e660a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_6a793784fcfd2024286c36236ce8033c6428bd9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_32d47033808fabc137ea74c329f064c621c6db16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_0a9a3e6ff6ad58d7c5f39e9d70875e472be480bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_c158d4f34bd8607910dfae16b532cb3fbfefa28f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_6cfd7bbbb6040e583a909d29821ad585fc384285\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_11c8cb5b981ec807d57082bed4a8431ae0b46268\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_0d7153ce225ab4bea148435a8fab48979addaf0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_7ebebe3beb30b4eaa993f62a315977c2e99f9a33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_832606d5ff5bba7bce7a163be0f6e5bb821fb2db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_ad5cb399754e6392b3ed15af066af6a5e071efa5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_4d9dc8a20d1385e7fe3dd799ee028c2be7822bcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_900113c3b4630b3599ff1d47ad5b4882dff7e66d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_9a67883a45624719770a100fc16f8974c43c5da7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e914958213968c1aabd89636c35b0b646bc1f52a">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_661c35d5de9a19857ee4158ec1fe08ff6a849084\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_445070beb3e90d9f0cd5691c78b4422a616a8dc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_b46d7726a42ad04596c871b35df3ecf7ebfb0926\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_f2e56f6dc0983af6d3c3493cd21a54fe229db52a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_e11862f1e36e9b4107fdca27fcedefd9f3255718\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_d777cfd17bb2f8befdab890884adaf077371fcbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_f38085471cfa2beeb5d2ba9d81146e87184459fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="840898e50b41efaa2e29a67f441a3f4ff995e813">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a2a512782b0f17c963d189dc34b87ccabfd02da9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_4272af4c9212fd6608d1306c01e4fa0b6e2e7138\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_7058db33a226dd021d33ed663cec5df7e22761cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_c8c6d9d1483c555dc0ddcf352c87032842f79c71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_c3766a33410a5fa15e3b4c95319470d3b60edfc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_035a79a6320448638c4ff0aa6cbfadc894fc6bd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_60f52817e69cb5d8fc1b2a6567fa820f1149b13e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e414cd04eb616445cea4bc3a17e13faace7cfb8">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_90da7ec8cc7fd7f7e043bd301dbff1d32ed92eee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_53fd1b78604096d46c9a87bc33e169d11d8ddae4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_2ba78fc1f0e4ef724a84155ad15c95ef9e6e1518\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_f355ab432a5bde4023b748b46955bac482d42bda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_43fb39f1e5ce91944f9ed2b239ad69b0e841890d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_58bf6e4a80a500524612d5a53e5883705e92a3e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cda926c90904e6ea171be33f104bb51fa0aa57aa">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_14f7b7118237195634d664b4367d176850343992\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_5734877c83bf255588a0a88b219f70f812ba6054\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_0b071e2d96219594103e2f3a7623b0123ce31c15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_f8f82e9bd680ff32f423671d5c74f5cd8f2212e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_c9e32bed3825a8aa3f9eeb7ac60c73b5d327a079\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_9ce0c020d53df705057acb7d2dc0f4d56b8d4d31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_85527fe7c231cbba4b85e5715f43a92de8bcfaf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_177ee435e8ff92011147d21b50b80e6c2a7c0bc8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_91a160cf35123a5c634541816a044882f1bca4de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_377b6c0812ab6ac4c0698d7e44cab8cf09cad97b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_d5dc73fa0f016debcc6ae0b89a8994dc267af4f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b2d5bfa05fea4cbbb10b8c4a5f442c9aa9843361">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a2a512782b0f17c963d189dc34b87ccabfd02da9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_3fa763cc7338237cafea4bccc7113614b911562f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_44f23f314a1fa1517230d3a162123e724ddaf4ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_9bac58680dcb2fd9fbbf57dc76ea0103e6a9b1f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_c1b9c3ad5247b3904b04d516871e6e2bef222197\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_17b6220642241db3ccd7345572ec196308667bc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_78a2451b653bd687da35e753261258cdacdd202c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_d3d2ea388726586a047c702e823e56b386138098\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_bf7f1668e746f6d573c961a45eb99bd003b1bfbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_6db204d977a149fda676a102a626f8bde5224aa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_137349dec732d7df4533a2569c93cd1d84ecd893\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_7421831f2be0168fcc2083243ca5a590b45943ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_41384f7c32cc2cde45f71f3d01b22edb75598188\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_2d7c8176a0bc8b36a1bb166efd82f3839bfa49c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_16139e138e655647aca447b5c4f90806109e70f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="081a1321faeda3713ff218fe3d7608d658d6ddc9">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_90da7ec8cc7fd7f7e043bd301dbff1d32ed92eee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_cff9060b9a2b67c8a91f75cfde433fcfab23e4bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_2099fb84abf3b34f35a9fee5d8645e0ba0200ee6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_78755bf245039a6e467052a493cd7d21866993ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_f8f82e9bd680ff32f423671d5c74f5cd8f2212e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_d9f7aa30efb504cb19397ba433cf30ce4cdc1d8a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_aceae3e5b79bcfb0a8a35c471fe7767949fc426b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_8acd03477f25fd612b142a2333d49699a8d5d5be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_3205e5cd574ff3fa5c3bb9d15086d087efff4262\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_a9783dd09c4a373c31eab4034d6888a7136370b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_fbdc8251995131cc164475fc7063d5b0c4a37cac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_6620a33d2a76ad045033c83b3434459420334060\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_f9ff776dbed9941f310dd62c3229eeefdafc33a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_adf408ec5380162ca99e711a23513dfbd35d96cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_011bcdf7df1c5c95261ad0024989ac1332010ced\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_ee383de408695fefbd3ed14c21e5ab9855fdc650\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_caf96eca040daa649785aa78ae95fd0c987911a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23a27f9f8079a2225e6d01840bd0fbb6bde3074f">
+        <dex dex="C:\Users\Dave Gamble\Desktop\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_24c7c8242f800ed6d1b9dab9c744afcf643104ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_7e94fc3e65c9905ef6bda62ee6f7fa1f41005d85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_afc1d52d629eb82b5175830b69f04aa9fb5aea89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_de6b764d664a9440c586a52d660d7a63fd7e0a16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="E:\FypPlannr\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_badb39a4d83657abc49ef3f49403e46da959015b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\Dave Gamble\Desktop\FYPSVN\fypplannr\fypplannr\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_8d34d4e2a83a607f780a5c6fb650e4620f384d58\classes.dex" />
+    </item>
+
+</items>

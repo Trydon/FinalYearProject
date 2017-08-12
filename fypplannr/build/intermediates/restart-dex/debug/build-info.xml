@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="5692945651090"
+    token="-453042631846054947"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1457" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="408" />
+    <task
+        name="verifier"
+        duration="87" />
+
+    <artifact
+        location="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\outputs\apk\fypplannr-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="5692945651090"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\154\040517 Latest\2404\fypplannr2404\fypplannr\build\outputs\apk\fypplannr-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
